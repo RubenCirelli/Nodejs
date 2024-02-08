@@ -1,2 +1,0 @@
-# Nodejs
-Lavori in Node
