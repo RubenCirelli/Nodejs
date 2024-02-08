@@ -1,7 +1,8 @@
-{
+{ 
+  "type": "module",
   "name": "Nodejs",
   "lockfileVersion": 3,
   "requires": true,
-  "packages": {},
-  "type": "MODULE"
+  "packages": {}
+  
 }

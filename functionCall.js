@@ -1,3 +1,3 @@
-const message = require("./JSModule.js")
+import message from "./JSModule.js";
 
-message("Hey there ")
+message("Hey there ");
